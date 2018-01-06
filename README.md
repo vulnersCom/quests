@@ -10,7 +10,7 @@ Take a look at the files:
 * isox_zipquest_hint.zip
 
 Can you decrypt and open them?
-Both contains short password and it's not a task about making GPU farm for brute.
+Both are protected by the short passwords and it's not a task about making GPU farm for the bruteforce.
 
 Credits:
 Thanks **p0rnqueen** for the idea.
