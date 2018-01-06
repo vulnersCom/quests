@@ -13,5 +13,5 @@ Can you decrypt and open them?
 Both are protected by the short passwords and it's not a task about making GPU farm for the bruteforce.
 
 Credits:
-Thanks **p0rnqueen** for the idea.
-Thanks **isox** for the coding.
+* Thanks **p0rnqueen** for the idea.
+* Thanks **isox** for the coding.
