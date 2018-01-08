@@ -6,11 +6,14 @@ Take a try!
 
 Password protected archives are common cases. But can you brute them effectively?
 Take a look at the files:
-* isox_zipquest_1.zip
-* isox_zipquest_hint.zip
+* Easy: isox_zipquest_novice.zip
+* Medium 1: isox_zipquest_hint.zip
+* Medium 2: isox_zipquest_1.zip
 
 Can you decrypt and open them?
-Both are protected by the short passwords (<=5) and it's not a task about making GPU farm for the bruteforce.
+Easy level is CTF-style.
+Medium are protected by the short passwords (<=5).
+And it's not a task about making GPU farm for the bruteforce!
 
 Credits:
 * Thanks **p0rnqueen** for the idea.
